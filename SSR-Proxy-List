@@ -5,21 +5,20 @@ doh.li
 containerpi.com
 
 # google
-googleapis.cn
-googleapis.com
-google.com.tw
-google.com.hk
-gstatic.com
-google.com
-youtube.com
-ytimg.com
+.googleapis.cn
+.googleapis.com
+.google.com.tw
+.google.com.hk
+.gstatic.com
+.google.com
+.youtube.com
+.ytimg.com
 
 xn--ngstr-lra8j.com
 github.com
 
 # for tunein radio
-tunein.com
-cdn-web.tunein.com
+.tunein.com
 radiotime.com
 bloombergmedia.com
 
@@ -29,10 +28,10 @@ netflix.com
 
 socloud.me
 
-openai.com
+# for OpenAI
+.openai.com
 intercom.io
 intercomcdn.com
-featuregates.org
 cloudflare.com
 
 stripe.com

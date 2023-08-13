@@ -1,4 +1,5 @@
 # domain names that will use proxy.
+# wiki on rules: https://github.com/shadowsocksrr/shadowsocks-rss/wiki/C%23-Proxy-Rule
 
 dns.sb
 doh.li

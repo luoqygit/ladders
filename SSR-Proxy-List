@@ -1,38 +1,41 @@
-# domain names that will use proxy.
-# wiki on rules: https://github.com/shadowsocksrr/shadowsocks-rss/wiki/C%23-Proxy-Rule
-
 dns.sb
 doh.li
 containerpi.com
 
 # google
-.googleapis.cn
-.googleapis.com
-.google.com.tw
-.google.com.hk
-.gstatic.com
-.google.com
-.youtube.com
-.ytimg.com
+googleapis.cn
+googleapis.com
+google.com.tw
+google.com.hk
+gstatic.com
+google.com
+youtube.com
+ytimg.com
+.googlevideo.com
 
 xn--ngstr-lra8j.com
 github.com
 
 # for tunein radio
 .tunein.com
-radiotime.com
-bloombergmedia.com
+.radiotime.com
+.bloombergmedia.com
+
+# for OpenAI
+.openai.com
+.sentry.io
+.featuregates.org
+.intercom.io
+.intercomcdn.com
+.cloudflare.com
+.stripe.com
+
+# for Claude 2
+.anthropic.com
+.claude.ai
 
 
 v2ex.com
 netflix.com
 
 socloud.me
-
-# for OpenAI
-.openai.com
-intercom.io
-intercomcdn.com
-cloudflare.com
-
-stripe.com
